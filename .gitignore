@@ -1,0 +1,7 @@
+gcp_key.json
+.DS_Store
+.vscode/
+*.db
+*.csv
+*.zip
+mimic_data/
